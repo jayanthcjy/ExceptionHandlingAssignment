@@ -1,0 +1,15 @@
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\net7.0\FileProcessing.exe
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\net7.0\FileProcessing.deps.json
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\net7.0\FileProcessing.runtimeconfig.json
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\net7.0\FileProcessing.dll
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\net7.0\FileProcessing.pdb
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.dll
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\refint\FileProcessing.dll
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.pdb
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\FileProcessing.genruntimeconfig.cache
+C:\Users\Jayanth C\source\repos\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\net7.0\ref\FileProcessing.dll
